@@ -259,6 +259,3 @@ def runSW(inputFile, scoreFile, openGap=-2, extGap=-1):
             f_out.write(row + '\n')
 
     return
-
-### Run your Smith-Waterman Algorithm
-runSW(args.input, args.score, args.opengap, args.extgap)
