@@ -24,3 +24,8 @@ View an example score file in ```/samples/blosum62.txt```
 ```bash
 python hw1.py -i <input_file> -s <score_file>
 ```
+
+Example (assuming cd-ed into src directory):
+```bash
+python hw1.py -i ../samples/sample-input1.txt -s ../samples/blosum62.txt
+```
