@@ -8,7 +8,8 @@ __version__ = "1.0.0"
 ### Usage: python hw1.py -i <input file> -s <score file>
 ### Example: python hw1.py -i input.txt -s blosum62.txt
 ### Note: Smith-Waterman Algorithm
-### EXTRA CREDIT: pip install 
+### EXTRA CREDIT command: pip install git+https://github.com/intermezzo672/smith-waterman.git
+### Link to repository: https://github.com/intermezzo672/smith-waterman
 
 import argparse
 import csv
