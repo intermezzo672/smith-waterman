@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/hw1.py
+src/smith_waterman_intermezzo672.egg-info/PKG-INFO
+src/smith_waterman_intermezzo672.egg-info/SOURCES.txt
+src/smith_waterman_intermezzo672.egg-info/dependency_links.txt
+src/smith_waterman_intermezzo672.egg-info/top_level.txt
